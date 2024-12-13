@@ -1452,7 +1452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="82Da8eTVqfI3lKSaDmSD" name="Sequence Diagram">
-    <mxGraphModel dx="1229" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="737" dy="318" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2052,7 +2052,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tm_sHw30zVXRG1bSkMSV-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="569" y="2695" width="10" height="55" as="geometry" />
+          <mxGeometry x="569" y="2714" width="10" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Tm_sHw30zVXRG1bSkMSV-36" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Draft berita()&lt;/font&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" parent="1" vertex="1">
           <mxGeometry x="581" y="2711" width="80" height="26" as="geometry" />
