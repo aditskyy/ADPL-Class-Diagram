@@ -2862,6 +2862,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nV_3pbQrezA4TzH_DMAk-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9feo4NMFw2PTDWJi6Cs1-4" target="mwN8PJOpP8pKE2T0ibbm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9feo4NMFw2PTDWJi6Cs1-4" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Benar/Salah&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1155" y="550" width="180" height="140" as="geometry" />
         </mxCell>
